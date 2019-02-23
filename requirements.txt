@@ -1,9 +1,8 @@
 numpy
 matplotlib
 SpeechRecognition
-time
+times
 ipywidgets
-webbrowser
 PyAudio
 struct
 pylab
