@@ -4,6 +4,6 @@ SpeechRecognition
 times
 ipywidgets
 PyAudio
-struct
+structs
 pylab
 scipy
