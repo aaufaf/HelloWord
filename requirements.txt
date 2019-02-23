@@ -1,0 +1,10 @@
+numpy
+matplotlib
+speech_recognition
+time
+ipywidgets
+webbrowser
+pyaudio
+struct
+pylab
+scipy
