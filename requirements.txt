@@ -3,6 +3,6 @@ matplotlib
 SpeechRecognition
 times
 ipywidgets
-PyAudio
+PyAudio==0.2.11
 scipy
 structures
