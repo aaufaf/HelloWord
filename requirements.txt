@@ -1,10 +1,10 @@
 numpy
 matplotlib
-speech_recognition
+SpeechRecognition
 time
 ipywidgets
 webbrowser
-pyaudio
+PyAudio
 struct
 pylab
 scipy
